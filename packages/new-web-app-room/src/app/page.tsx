@@ -46,7 +46,7 @@ export default function TodoApp() {
       <div className="max-w-2xl mx-auto mt-12">
         <div className="bg-white rounded-2xl shadow-2xl p-8">
           <h1 className="text-4xl font-bold text-gray-800 mb-8 text-center">
-            My Todo List v9
+            My Todo List v10
           </h1>
           
           {/* Input Section */}
@@ -114,6 +114,7 @@ export default function TodoApp() {
     </div>
   );
 }
+
 
 
 
